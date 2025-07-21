@@ -1,3 +1,3 @@
 module github.com/Isshinfunada/System-Programming
 
-go 1.17
+go 1.23.3
